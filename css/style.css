@@ -9,7 +9,7 @@
 }
 
 .leaf-bg {
-    background-image: url(/img/bg-leaf.png);
+    background-image: url(img/bg-leaf.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
