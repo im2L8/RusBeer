@@ -12074,11 +12074,11 @@ textarea.form-control-lg {
 
 @font-face {
   font-family: 'regular';
-  src: url(/fonts/ObjectSans-Regular.ttf);
+  src: url(fonts/ObjectSans-Regular.ttf);
 }
 
 @font-face {
   font-family: 'heavy';
-  src: url(/fonts/ObjectSans-Heavy.ttf);
+  src: url(fonts/ObjectSans-Heavy.ttf);
 }
 /*# sourceMappingURL=bootstrap.css.map */
