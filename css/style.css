@@ -1,0 +1,23 @@
+.green-bg {
+    background: #255447;
+}
+
+.border-card-style {
+    border-radius: 30px;
+    border: #DDDDDD dashed 1px;
+    padding: 2rem 1rem;
+}
+
+.leaf-bg {
+    background-image: url(/img/bg-leaf.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.golden-bg {
+    background: #F1D133;
+}
+
+.green-text-color {
+    color: #255447;
+}
